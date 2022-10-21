@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="XCANews/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>XCANews</source>
+        <target>Τα νέα της ημέρας</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANews/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="Categories" xml:space="preserve">
+        <source>Categories</source>
+        <target>Κατηγορίες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Category" xml:space="preserve">
+        <source>Category</source>
+        <target>Κατηγορία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear" xml:space="preserve">
+        <source>Clear</source>
+        <target>Διαγραφή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Διαγραφή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recently Searched" xml:space="preserve">
+        <source>Recently Searched</source>
+        <target>Πρόσφατα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved Articles" xml:space="preserve">
+        <source>Saved Articles</source>
+        <target>Αποθηκευμένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target>Αναζήτηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try again" xml:space="preserve">
+        <source>Try again</source>
+        <target>Προσπαθήστε πάλι</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XCA News" xml:space="preserve">
+        <source>XCA News</source>
+        <target>Τα νέα της ημέρας</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsiOSWidget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>XCANewsiOSWidget</source>
+        <target>Τα νέα της ημέρας</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>XCANewsiOSWidgetExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsiOSWidget/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="My Widget" xml:space="preserve">
+        <source>My Widget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This is an example widget." xml:space="preserve">
+        <source>This is an example widget.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsMac/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>XCA News</source>
+        <target>Τα νέα της ημέρας</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsMac/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="%lld bookmarks(s)" xml:space="preserve">
+        <source>%lld bookmarks(s)</source>
+        <target>%lld αγαπημένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmark" xml:space="preserve">
+        <source>Bookmark</source>
+        <target>Αγαπημένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Categories" xml:space="preserve">
+        <source>Categories</source>
+        <target>Κατηγορίες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear All" xml:space="preserve">
+        <source>Clear All</source>
+        <target>Καθαρισμός</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Copy URL" xml:space="preserve">
+        <source>Copy URL</source>
+        <target>Αντιγραφή URL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target>Γενικά</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve">
+        <source>Open in Browser</source>
+        <target>Άνοιγμα στον browser</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recent Searches" xml:space="preserve">
+        <source>Recent Searches</source>
+        <target>Πρόσφατα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Refresh News" xml:space="preserve">
+        <source>Refresh News</source>
+        <target>Ανανέωση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark" xml:space="preserve">
+        <source>Remove Bookmark</source>
+        <target>Αφαίρεση αγαπημένου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved Articles" xml:space="preserve">
+        <source>Saved Articles</source>
+        <target>Αποθηκευμένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved bookmarks data" xml:space="preserve">
+        <source>Saved bookmarks data</source>
+        <target>Αποθηκευμένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target>Αναζήτηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search history data:" xml:space="preserve">
+        <source>Search history data:</source>
+        <target>Αναζήτηση ιστορικού</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search news" xml:space="preserve">
+        <source>Search news</source>
+        <target>Αναζήτηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search results for %@" xml:space="preserve">
+        <source>Search results for %@</source>
+        <target>Αποτελέσματα για %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Trending" xml:space="preserve">
+        <source>Trending</source>
+        <target>Τάσεις</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try again" xml:space="preserve">
+        <source>Try again</source>
+        <target>Προσπαθήστε ξανά</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XCA News" xml:space="preserve">
+        <source>XCA News</source>
+        <target>Τα νέα της ημέρας</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsMacWidget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>XCANewsMacWidget</source>
+        <target>Νέα της ημέρας</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>XCANewsMacWidgetExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsMacWidget/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="My Widget" xml:space="preserve">
+        <source>My Widget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This is an example widget." xml:space="preserve">
+        <source>This is an example widget.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsTV/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="Add Bookmark" xml:space="preserve">
+        <source>Add Bookmark</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add to Bookmark" xml:space="preserve">
+        <source>Add to Bookmark</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="News" xml:space="preserve">
+        <source>News</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark" xml:space="preserve">
+        <source>Remove Bookmark</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from Bookmark" xml:space="preserve">
+        <source>Remove from Bookmark</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved" xml:space="preserve">
+        <source>Saved</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try again" xml:space="preserve">
+        <source>Try again</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsTV/en.lproj/XCANewsTV-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>XCANewsTV</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsWatch Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>XCANewsWatch Extension</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>XCANewsWatch Extension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source/>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCANewsWatch Extension/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="el">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A309"/>
+    </header>
+    <body>
+      <trans-unit id="Bookmark" xml:space="preserve">
+        <source>Bookmark</source>
+        <target>Προσθήκη</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Categories" xml:space="preserve">
+        <source>Categories</source>
+        <target>Κατηγορίες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Category" xml:space="preserve">
+        <source>Category</source>
+        <target>Κατηγορία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear All" xml:space="preserve">
+        <source>Clear All</source>
+        <target>Καθαρισμός όλων</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clearing will remove all your saved articles list data" xml:space="preserve">
+        <source>Clearing will remove all your saved articles list data</source>
+        <target>Καθαρισμός - θα διαγραφούν τα αποθηκευμένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Complication" xml:space="preserve">
+        <source>Complication</source>
+        <target>Πολυπλοκότητα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark" xml:space="preserve">
+        <source>Remove Bookmark</source>
+        <target>Αφαίρεση αγαπημένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved Articles" xml:space="preserve">
+        <source>Saved Articles</source>
+        <target>Αποθηκευμένα άρθρα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved bookmarks data" xml:space="preserve">
+        <source>Saved bookmarks data</source>
+        <target>Αγαπημένα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target>Αναζήτηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search results for %@" xml:space="preserve">
+        <source>Search results for %@</source>
+        <target>Αποτελέσματα αναζήτησης για %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Set category of news used for refreshing complication data" xml:space="preserve">
+        <source>Set category of news used for refreshing complication data</source>
+        <target>Ορισμός κατηγορίας νέων </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>Ρυθμίσεις</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try again" xml:space="preserve">
+        <source>Try again</source>
+        <target>Προσπάθησε ξανά</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XCA News" xml:space="preserve">
+        <source>XCA News</source>
+        <target>Τα νέα της ημέρας</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

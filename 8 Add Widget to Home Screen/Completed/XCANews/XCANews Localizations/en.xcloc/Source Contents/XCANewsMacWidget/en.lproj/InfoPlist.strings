@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "XCANewsMacWidget";
+/* Bundle name */
+"CFBundleName" = "XCANewsMacWidgetExtension";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "";

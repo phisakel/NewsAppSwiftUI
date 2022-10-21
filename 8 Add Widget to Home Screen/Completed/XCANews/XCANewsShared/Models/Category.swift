@@ -17,10 +17,7 @@ enum Category: String, CaseIterable, Codable {
     case health
     
     var text: String {
-        if self == .general {
-            return "Top Headlines"
-        }
-        return rawValue.capitalized
+         return NSLocalizedString("category_\(rawValue)", comment: "")
     }
     
     var systemImage: String {

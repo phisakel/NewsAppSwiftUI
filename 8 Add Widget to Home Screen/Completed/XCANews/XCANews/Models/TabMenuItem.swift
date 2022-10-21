@@ -12,7 +12,7 @@ enum TabMenuItem: String, CaseIterable {
     case search
     case saved
     
-    var text: String { rawValue.capitalized }
+    var text: String { NSLocalizedString( rawValue.capitalized, comment: "") }
     var systemImage: String {
         switch self {
         case .news:

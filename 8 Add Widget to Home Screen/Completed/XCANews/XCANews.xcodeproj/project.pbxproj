@@ -184,6 +184,14 @@
 		8BB618BE26C82B36001A3B07 /* ArticleDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB618BD26C82B36001A3B07 /* ArticleDataStore.swift */; };
 		8BB618C026C82F3E001A3B07 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB618BF26C82F3E001A3B07 /* ExtensionDelegate.swift */; };
 		8BB618C226C835E9001A3B07 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB618C126C835E9001A3B07 /* SettingsView.swift */; };
+		B04E50F028E0EBB4005502F9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E50EE28E0EBB4005502F9 /* InfoPlist.strings */; };
+		B04E50F328E0EBB4005502F9 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E50F128E0EBB4005502F9 /* Localizable.strings */; };
+		B04E50F628E0EBB4005502F9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E50F428E0EBB4005502F9 /* InfoPlist.strings */; };
+		B04E50F928E0EBB4005502F9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E50F728E0EBB4005502F9 /* InfoPlist.strings */; };
+		B04E50FC28E0EBB4005502F9 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E50FA28E0EBB4005502F9 /* Localizable.strings */; };
+		B04E50FF28E0EBB4005502F9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E50FD28E0EBB4005502F9 /* InfoPlist.strings */; };
+		B04E510228E0EBB4005502F9 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B04E510028E0EBB4005502F9 /* Localizable.strings */; };
+		B0E45F8428E393FD0057712A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0E45F8628E393FD0057712A /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -350,7 +358,6 @@
 		8BB6188F26C77CB7001A3B07 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
 		8BB6189126C77CB8001A3B07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BB6189426C77CB8001A3B07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		8BB6189626C77CB8001A3B07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BB618B226C7AB7D001A3B07 /* ArticleDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleDetailView.swift; sourceTree = "<group>"; };
 		8BB618B626C7FD9C001A3B07 /* WatchConnectivityViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchConnectivityViewModel.swift; sourceTree = "<group>"; };
 		8BB618B926C81FCC001A3B07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -358,6 +365,21 @@
 		8BB618BD26C82B36001A3B07 /* ArticleDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleDataStore.swift; sourceTree = "<group>"; };
 		8BB618BF26C82F3E001A3B07 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		8BB618C126C835E9001A3B07 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		B04E50EF28E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B04E50F228E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B04E50F528E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B04E50F828E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B04E50FB28E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B04E50FE28E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B04E510128E0EBB4005502F9 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B04E510528E0EDCF005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B04E510628E0EDDD005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B04E510928E0EE45005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/Info.plist; sourceTree = "<group>"; };
+		B04E510A28E0EFFD005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B0E45F8528E393FD0057712A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B0E45F8728E394010057712A /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B0E45F8828E39A6D0057712A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B0E45F8A28E39A720057712A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -480,6 +502,8 @@
 				8B562772271A923B00A1E5F2 /* XCANewsiOSWidget.swift */,
 				8B562775271A923C00A1E5F2 /* Assets.xcassets */,
 				8B562777271A923C00A1E5F2 /* Info.plist */,
+				B04E50F428E0EBB4005502F9 /* InfoPlist.strings */,
+				B0E45F8628E393FD0057712A /* Localizable.strings */,
 			);
 			path = XCANewsiOSWidget;
 			sourceTree = "<group>";
@@ -490,6 +514,7 @@
 				8B562789271A926000A1E5F2 /* XCANewsMacWidget.swift */,
 				8B56278C271A926100A1E5F2 /* Assets.xcassets */,
 				8B56278E271A926100A1E5F2 /* Info.plist */,
+				B04E50FD28E0EBB4005502F9 /* InfoPlist.strings */,
 				8B56278F271A926100A1E5F2 /* XCANewsMacWidget.entitlements */,
 			);
 			path = XCANewsMacWidget;
@@ -510,6 +535,8 @@
 			isa = PBXGroup;
 			children = (
 				8B734F6426ABED7B006FACF1 /* Info.plist */,
+				B04E50FA28E0EBB4005502F9 /* Localizable.strings */,
+				B04E50F728E0EBB4005502F9 /* InfoPlist.strings */,
 				8B734F7826ABFD8D006FACF1 /* Views */,
 				8B734F6326ABED32006FACF1 /* XCANewsMac.entitlements */,
 				8B734F5726ABEC18006FACF1 /* XCANewsMacApp.swift */,
@@ -656,6 +683,8 @@
 			isa = PBXGroup;
 			children = (
 				8B23126C2688BC6600E88E3A /* Info.plist */,
+				B04E50F128E0EBB4005502F9 /* Localizable.strings */,
+				B04E50EE28E0EBB4005502F9 /* InfoPlist.strings */,
 				8BB1DB4C268896060002F2AA /* XCANewsApp.swift */,
 				8BB1DB4E268896060002F2AA /* ContentView.swift */,
 				8BB1DB50268896060002F2AA /* Assets.xcassets */,
@@ -699,7 +728,8 @@
 				8BB6188D26C77CB7001A3B07 /* XCANewsApp.swift */,
 				8BB6188F26C77CB7001A3B07 /* ComplicationController.swift */,
 				8BB6189126C77CB8001A3B07 /* Assets.xcassets */,
-				8BB6189626C77CB8001A3B07 /* Info.plist */,
+				B04E510828E0EDF7005502F9 /* Info.plist */,
+				B04E510028E0EBB4005502F9 /* Localizable.strings */,
 				8BB6189326C77CB8001A3B07 /* Preview Content */,
 				8BB618BD26C82B36001A3B07 /* ArticleDataStore.swift */,
 				8BB618BF26C82F3E001A3B07 /* ExtensionDelegate.swift */,
@@ -893,6 +923,7 @@
 			knownRegions = (
 				en,
 				Base,
+				el,
 			);
 			mainGroup = 8BB1DB40268896060002F2AA;
 			productRefGroup = 8BB1DB4A268896060002F2AA /* Products */;
@@ -916,6 +947,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B56279D271A93AD00A1E5F2 /* news.json in Resources */,
+				B0E45F8428E393FD0057712A /* Localizable.strings in Resources */,
+				B04E50F628E0EBB4005502F9 /* InfoPlist.strings in Resources */,
 				8B562776271A923C00A1E5F2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -925,6 +958,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B5627A3271A93B200A1E5F2 /* news.json in Resources */,
+				B04E50FF28E0EBB4005502F9 /* InfoPlist.strings in Resources */,
 				8B56278D271A926100A1E5F2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -933,7 +967,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B04E50FC28E0EBB4005502F9 /* Localizable.strings in Resources */,
 				8B734F7026ABFA19006FACF1 /* news.json in Resources */,
+				B04E50F928E0EBB4005502F9 /* InfoPlist.strings in Resources */,
 				8B734F5F26ABEC1A006FACF1 /* Preview Assets.xcassets in Resources */,
 				8B734F5C26ABEC1A006FACF1 /* Assets.xcassets in Resources */,
 			);
@@ -953,7 +989,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B04E50F328E0EBB4005502F9 /* Localizable.strings in Resources */,
 				8BB1DB5B268897CC0002F2AA /* news.json in Resources */,
+				B04E50F028E0EBB4005502F9 /* InfoPlist.strings in Resources */,
 				8BB1DB54268896060002F2AA /* Preview Assets.xcassets in Resources */,
 				8BB1DB51268896060002F2AA /* Assets.xcassets in Resources */,
 			);
@@ -972,6 +1010,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BB618A226C77E70001A3B07 /* news.json in Resources */,
+				B04E510228E0EBB4005502F9 /* Localizable.strings in Resources */,
 				8BB6189526C77CB8001A3B07 /* Preview Assets.xcassets in Resources */,
 				8BB6189226C77CB8001A3B07 /* Assets.xcassets in Resources */,
 			);
@@ -1199,6 +1238,87 @@
 		};
 /* End PBXTargetDependency section */
 
+/* Begin PBXVariantGroup section */
+		B04E50EE28E0EBB4005502F9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E50EF28E0EBB4005502F9 /* el */,
+				B04E510A28E0EFFD005502F9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B04E50F128E0EBB4005502F9 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E50F228E0EBB4005502F9 /* el */,
+				B04E510528E0EDCF005502F9 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		B04E50F428E0EBB4005502F9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E50F528E0EBB4005502F9 /* el */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B04E50F728E0EBB4005502F9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E50F828E0EBB4005502F9 /* el */,
+				B0E45F8A28E39A720057712A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B04E50FA28E0EBB4005502F9 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E50FB28E0EBB4005502F9 /* el */,
+				B0E45F8828E39A6D0057712A /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		B04E50FD28E0EBB4005502F9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E50FE28E0EBB4005502F9 /* el */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B04E510028E0EBB4005502F9 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E510128E0EBB4005502F9 /* el */,
+				B04E510628E0EDDD005502F9 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		B04E510828E0EDF7005502F9 /* Info.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B04E510928E0EE45005502F9 /* en */,
+			);
+			name = Info.plist;
+			sourceTree = "<group>";
+		};
+		B0E45F8628E393FD0057712A /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B0E45F8528E393FD0057712A /* en */,
+				B0E45F8728E394010057712A /* el */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		8B56277E271A923C00A1E5F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1208,7 +1328,7 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANewsiOSWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = XCANewsiOSWidget;
@@ -1218,8 +1338,8 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews.XCANewsiOSWidget;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.XCANewsiOSWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1236,7 +1356,7 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANewsiOSWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = XCANewsiOSWidget;
@@ -1246,8 +1366,8 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews.XCANewsiOSWidget;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.XCANewsiOSWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1265,7 +1385,7 @@
 				CODE_SIGN_ENTITLEMENTS = XCANewsMacWidget/XCANewsMacWidget.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANewsMacWidget/Info.plist;
@@ -1278,7 +1398,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANewsMac.XCANewsMacWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.XCANewsMacWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -1296,7 +1416,7 @@
 				CODE_SIGN_ENTITLEMENTS = XCANewsMacWidget/XCANewsMacWidget.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANewsMacWidget/Info.plist;
@@ -1309,7 +1429,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANewsMac.XCANewsMacWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.XCANewsMacWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -1330,13 +1450,14 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANewsMac/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANewsMac/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1344,7 +1465,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANewsMac;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed;
 				PRODUCT_MODULE_NAME = XCANewsMac;
 				PRODUCT_NAME = "XCA News";
 				SDKROOT = macosx;
@@ -1365,13 +1486,14 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANewsMac/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANewsMac/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1379,7 +1501,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANewsMac;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed;
 				PRODUCT_MODULE_NAME = XCANewsMac;
 				PRODUCT_NAME = "XCA News";
 				SDKROOT = macosx;
@@ -1397,7 +1519,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANewsTV/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -1407,7 +1529,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANewsTV;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeedTV;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1426,7 +1548,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANewsTV/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -1436,7 +1558,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANewsTV;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeedTV;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1571,13 +1693,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANews/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANews/Info.plist;
 				INFOPLIST_KEY_CFBundleExecutable = XCANews;
 				INFOPLIST_KEY_CFBundleName = XCANews;
 				INFOPLIST_KEY_CFBundleVersion = 1;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -1588,8 +1711,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -1606,13 +1729,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANews/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = XCANews/Info.plist;
 				INFOPLIST_KEY_CFBundleExecutable = XCANews;
 				INFOPLIST_KEY_CFBundleName = XCANews;
 				INFOPLIST_KEY_CFBundleVersion = 1;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -1623,8 +1747,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -1641,15 +1765,15 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = XCANewsWatch_Extension;
 				INFOPLIST_FILE = XCANewsWatch/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "XCA News";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.alfianlosari.XCANews;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews.watchkitapp;
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = gr.phisakel.DailyFeed;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1669,15 +1793,15 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = XCANewsWatch_Extension;
 				INFOPLIST_FILE = XCANewsWatch/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "XCA News";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.alfianlosari.XCANews;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews.watchkitapp;
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = gr.phisakel.DailyFeed;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1696,20 +1820,20 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANewsWatch Extension/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "XCANewsWatch Extension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "XCANewsWatch Extension";
-				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = XCANewsWatch_Extension.ComplicationController;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews.watchkitapp.watchkitextension;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1728,20 +1852,20 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XCANewsWatch Extension/Preview Content\"";
-				DEVELOPMENT_TEAM = 5C2XD9H2JS;
+				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "XCANewsWatch Extension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "XCANewsWatch Extension";
-				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = XCANewsWatch_Extension.ComplicationController;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCANews.watchkitapp.watchkitextension;
+				MARKETING_VERSION = 2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = gr.phisakel.DailyFeed.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;

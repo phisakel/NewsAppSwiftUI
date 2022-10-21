@@ -1,0 +1,57 @@
+/* No comment provided by engineer. */
+"Bookmark" = "Προσθήκη";
+
+/* No comment provided by engineer. */
+"Categories" = "Κατηγορίες";
+
+/* No comment provided by engineer. */
+"Category" = "Κατηγορία";
+
+/* No comment provided by engineer. */
+"Clear All" = "Καθαρισμός όλων";
+
+/* No comment provided by engineer. */
+"Clearing will remove all your saved articles list data" = "Καθαρισμός - θα διαγραφούν τα αποθηκευμένα";
+
+/* No comment provided by engineer. */
+"Complication" = "Πολυπλοκότητα";
+
+/* No comment provided by engineer. */
+"Remove Bookmark" = "Αφαίρεση αγαπημένα";
+
+/* No comment provided by engineer. */
+"Saved Articles" = "Αποθηκευμένα άρθρα";
+
+/* No comment provided by engineer. */
+"Saved bookmarks data" = "Αγαπημένα";
+
+/* No comment provided by engineer. */
+"Search" = "Αναζήτηση";
+
+/* No comment provided by engineer. */
+"Search results for %@" = "Αποτελέσματα αναζήτησης για %@";
+
+/* No comment provided by engineer. */
+"Set category of news used for refreshing complication data" = "Ορισμός κατηγορίας νέων ";
+
+/* No comment provided by engineer. */
+"Settings" = "Ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Try again" = "Προσπάθησε ξανά";
+
+/* No comment provided by engineer. */
+"XCA News" = "Τα νέα της ημέρας";
+
+
+"category_enabled"="Ενεργά";
+"category_business"="Επιχειρήσεις";
+"category_entertainment"="Διασκέδαση";
+"category_gaming"="Παιχνίδια";
+"category_general"="Γενικά";
+"category_music"="Μουσική";
+"category_politics"="Πολιτική";
+"category_science"="Επιστήμη";
+"category_health"="Υγεία";
+"category_sports"="Σπορ";
+"category_technology"="Τεχνολογία";

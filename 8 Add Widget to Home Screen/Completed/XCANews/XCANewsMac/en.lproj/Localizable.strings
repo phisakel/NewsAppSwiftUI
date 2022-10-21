@@ -1,0 +1,68 @@
+/* No comment provided by engineer. */
+"%lld bookmarks(s)" = "%lld αγαπημένα";
+
+/* No comment provided by engineer. */
+"Bookmark" = "Αγαπημένα";
+
+/* No comment provided by engineer. */
+"Categories" = "Κατηγορίες";
+
+/* No comment provided by engineer. */
+"Clear All" = "Καθαρισμός";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Αντιγραφή URL";
+
+/* No comment provided by engineer. */
+"General" = "Γενικά";
+
+/* No comment provided by engineer. */
+"Open in Browser" = "Άνοιγμα στον browser";
+
+/* No comment provided by engineer. */
+"Recent Searches" = "Πρόσφατα";
+
+/* No comment provided by engineer. */
+"Refresh News" = "Ανανέωση";
+
+/* No comment provided by engineer. */
+"Remove Bookmark" = "Αφαίρεση αγαπημένου";
+
+/* No comment provided by engineer. */
+"Saved Articles" = "Αποθηκευμένα";
+
+/* No comment provided by engineer. */
+"Saved bookmarks data" = "Αποθηκευμένα";
+
+/* No comment provided by engineer. */
+"Search" = "Αναζήτηση";
+
+/* No comment provided by engineer. */
+"Search history data:" = "Αναζήτηση ιστορικού";
+
+/* No comment provided by engineer. */
+"Search news" = "Αναζήτηση";
+
+/* No comment provided by engineer. */
+"Search results for %@" = "Αποτελέσματα για %@";
+
+/* No comment provided by engineer. */
+"Trending" = "Τάσεις";
+
+/* No comment provided by engineer. */
+"Try again" = "Προσπαθήστε ξανά";
+
+/* No comment provided by engineer. */
+"XCA News" = "Τα νέα της ημέρας";
+
+"category_enabled"="Ενεργά";
+"category_business"="Επιχειρήσεις";
+"category_entertainment"="Διασκέδαση";
+"category_gaming"="Παιχνίδια";
+"category_general"="Γενικά";
+"category_music"="Μουσική";
+"category_politics"="Πολιτική";
+"category_science"="Επιστήμη";
+"category_health"="Υγεία";
+"category_sports"="Σπορ";
+"category_technology"="Τεχνολογία";

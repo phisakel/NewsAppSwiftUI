@@ -12,7 +12,7 @@ struct NewsAPI {
     static let shared = NewsAPI()
     private init() {}
     
-    private let apiKey = "8da10975d3154f2cb680b4fcb253d510"
+    private let apiKey = "adbe34f12ddf47719766fb9b79adb637"
     private let session = URLSession.shared
     private let jsonDecoder: JSONDecoder = {
         let decoder = JSONDecoder()
@@ -96,7 +96,7 @@ struct NewsAPI {
         let percentEncodedString = query.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? query
         var url = "https://newsapi.org/v2/everything?"
         url += "apiKey=\(apiKey)"
-        url += "&language=en"
+        url += "&language=el"
         url += "&q=\(percentEncodedString)"
         return URL(string: url)!
     }
@@ -104,7 +104,7 @@ struct NewsAPI {
     private func generateNewsURL(from category: Category, page: Int = 1, pageSize: Int = 20) -> URL {
         var url = "https://newsapi.org/v2/top-headlines?"
         url += "apiKey=\(apiKey)"
-        url += "&language=en"
+        url += "&language=el&country=gr"
         url += "&category=\(category.rawValue)"
         url += "&page=\(page)"
         url += "&pageSize=\(pageSize)"

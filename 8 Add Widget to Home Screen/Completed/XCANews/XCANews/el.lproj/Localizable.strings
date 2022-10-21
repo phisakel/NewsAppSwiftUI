@@ -1,0 +1,42 @@
+/* No comment provided by engineer. */
+"Categories" = "Κατηγορίες";
+
+/* No comment provided by engineer. */
+"Category" = "Κατηγορία";
+
+/* No comment provided by engineer. */
+"Clear" = "Διαγραφή";
+
+/* No comment provided by engineer. */
+"Delete" = "Διαγραφή";
+
+/* No comment provided by engineer. */
+"Recently Searched" = "Πρόσφατα";
+
+/* No comment provided by engineer. */
+"Saved Articles" = "Αποθηκευμένα";
+
+/* No comment provided by engineer. */
+"Search" = "Αναζήτηση";
+
+/* No comment provided by engineer. */
+"Try again" = "Προσπαθήστε πάλι";
+
+/* No comment provided by engineer. */
+"XCA News" = "Τα νέα της ημέρας";
+"News" = "Νέα";
+"Search"="Αναζήτηση";
+"Saved"="Αποθηκευμένα";
+"No Bookmarks"="Δεν βρέθηκαν αποθηκευμένα";
+
+"category_enabled"="Ενεργά";
+"category_business"="Επιχειρήσεις";
+"category_entertainment"="Διασκέδαση";
+"category_gaming"="Παιχνίδια";
+"category_general"="Γενικά";
+"category_music"="Μουσική";
+"category_politics"="Πολιτική";
+"category_science"="Επιστήμη";
+"category_health"="Υγεία";
+"category_sports"="Σπορ";
+"category_technology"="Τεχνολογία";

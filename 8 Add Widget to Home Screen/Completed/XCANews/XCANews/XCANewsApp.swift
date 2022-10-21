@@ -19,6 +19,8 @@ class AppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCenterDele
             print(success)
             print(error?.localizedDescription ?? "No error for authorization permission")
         }
+      UserDefaults.standard.set(["el"], forKey: "AppleLanguages")
+      UserDefaults.standard.synchronize()
         return true
     }
     

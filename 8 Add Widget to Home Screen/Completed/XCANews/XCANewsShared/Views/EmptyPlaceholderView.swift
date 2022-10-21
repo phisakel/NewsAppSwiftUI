@@ -29,6 +29,6 @@ struct EmptyPlaceholderView: View {
 
 struct EmptyPlaceholderView_Previews: PreviewProvider {
     static var previews: some View {
-        EmptyPlaceholderView(text: "No Bookmarks", image: Image(systemName: "bookmark"))
+        EmptyPlaceholderView(text: NSLocalizedString("No Bookmarks", comment: "") , image: Image(systemName: "bookmark"))
     }
 }
