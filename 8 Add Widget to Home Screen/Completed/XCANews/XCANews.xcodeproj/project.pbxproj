@@ -376,6 +376,7 @@
 		B04E510628E0EDDD005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B04E510928E0EE45005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/Info.plist; sourceTree = "<group>"; };
 		B04E510A28E0EFFD005502F9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B092F6822BBA140900838795 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B0E45F8528E393FD0057712A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B0E45F8728E394010057712A /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B0E45F8828E39A6D0057712A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -630,6 +631,7 @@
 		8B8051EE26DB40F10017DA65 /* XCANewsTV */ = {
 			isa = PBXGroup;
 			children = (
+				B092F6822BBA140900838795 /* Info.plist */,
 				8B29F6A226DB569B00B230E5 /* Views */,
 				8B8051EF26DB40F10017DA65 /* XCANewsTVApp.swift */,
 				8B8051F126DB40F10017DA65 /* ContentView.swift */,
@@ -1522,6 +1524,7 @@
 				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = XCANewsTV/Info.plist;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1551,6 +1554,7 @@
 				DEVELOPMENT_TEAM = 5T7UHW36CL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = XCANewsTV/Info.plist;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
 				LD_RUNPATH_SEARCH_PATHS = (

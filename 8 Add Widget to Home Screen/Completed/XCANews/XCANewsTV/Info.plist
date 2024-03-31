@@ -4,9 +4,5 @@
 <dict>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
-	<key>NSUserActivityTypes</key>
-	<array>
-		<string>com.alfianlosari.xcanews.view</string>
-	</array>
 </dict>
 </plist>
