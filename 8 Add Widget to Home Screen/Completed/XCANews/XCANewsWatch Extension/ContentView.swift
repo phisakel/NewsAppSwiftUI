@@ -21,12 +21,13 @@ struct ContentView: View {
             .hidden()
             
             List {
+						#if !os(watchOS)
                 Section {
                     navigationLinkForMenuItem(.saved) {
                         Label(MenuItem.saved.text, systemImage: MenuItem.saved.systemImage)
                     }
                 }
-                
+							#endif
                 Section {
                     ForEach(Category.menuItems) { item in
                         navigationLinkForMenuItem(item) {
@@ -63,9 +64,10 @@ struct ContentView: View {
     @ViewBuilder
     private func viewForMenuItem(_ item: MenuItem) -> some View {
         switch item {
+				#if !os(watchOS)
         case .saved:
             BookmarkTabView()
-            
+					#endif
         case .search:
             SearchTabView()
                 .onDisappear {

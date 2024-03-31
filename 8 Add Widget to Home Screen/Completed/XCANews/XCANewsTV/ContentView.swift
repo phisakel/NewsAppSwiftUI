@@ -16,13 +16,13 @@ struct ContentView: View {
                     Label("News", systemImage: "newspaper")
                 }
                 .tag("news")
-            
+					#if !os(watchOS)
             BookmarkTabView()
                 .tabItem {
                     Label("Saved", systemImage: "bookmark")
                 }
                 .tag("saved")
-            
+					#endif
             SearchTabView()
                 .tabItem {
                     Image(systemName: "magnifyingglass")

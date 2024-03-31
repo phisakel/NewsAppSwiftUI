@@ -9,7 +9,9 @@ import Foundation
 
 enum MenuItem: CaseIterable {
     case search
+#if !os(watchOS)
     case saved
+#endif
     case category(Category)
     #if os(watchOS)
     case settings
@@ -19,8 +21,10 @@ enum MenuItem: CaseIterable {
         switch self {
         case .search:
             return "Search"
+					#if !os(watchOS)
         case .saved:
             return "Saved"
+					#endif
         case .category(let category):
             return category.text
         #if os(watchOS)
@@ -35,8 +39,10 @@ enum MenuItem: CaseIterable {
         switch self {
         case .search:
             return "magnifyingglass"
+					#if !os(watchOS)
         case .saved:
             return "bookmark"
+					#endif
         case .category(let category):
             return category.systemImage
         #if os(watchOS)
@@ -47,7 +53,11 @@ enum MenuItem: CaseIterable {
     }
     
     static var allCases: [MenuItem] {
+#if !os(watchOS)
         return [.search, .saved] + Category.menuItems
+			#else
+			return [.search] + Category.menuItems
+			#endif
     }
     
 }
@@ -58,8 +68,10 @@ extension MenuItem: Identifiable {
         switch self {
         case .search:
             return "search"
+				#if !os(watchOS)
         case .saved:
             return "saved"
+					#endif
         case .category(let category):
             return category.rawValue
         #if os(watchOS)
@@ -73,8 +85,10 @@ extension MenuItem: Identifiable {
         switch id {
         case MenuItem.search.id:
             self = .search
+				#if !os(watchOS)
         case MenuItem.saved.id:
             self = .saved
+				#endif
         #if os(watchOS)
         case MenuItem.settings.id:
             self = .settings

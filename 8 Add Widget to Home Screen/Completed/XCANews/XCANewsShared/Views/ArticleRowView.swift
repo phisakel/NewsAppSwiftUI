@@ -32,10 +32,10 @@ struct ArticleRowView: View {
     
     @ViewBuilder
     private func contentView(proxy: GeometryProxy? = nil) -> some View {
-        VStack(alignment: .leading, spacing: 16) {
-            asyncImage
-            
-            VStack(alignment: .leading, spacing: 0) {
+        VStack(alignment: .center, spacing: 16) {
+           // asyncImage
+					Spacer()
+            VStack(alignment: .leading, spacing: 16) {
                 Text(article.title)
                     .padding(.bottom, 8)
                 #if os(iOS)
@@ -44,7 +44,7 @@ struct ArticleRowView: View {
                     .font(.title2.bold())
                     .foregroundStyle(.primary)
                 #endif
-                    .lineLimit(3)
+                    .lineLimit(nil)
                 
                 Text(article.descriptionText)
                 #if os(iOS)
@@ -136,10 +136,10 @@ struct ArticleRowView: View {
     private var watchContentView: some View {
         VStack(alignment: .leading) {
             HStack {
-                asyncImage
+                //asyncImage
                 Text(article.title)
-                    .lineLimit(3)
-                    .font(.headline)
+                    .lineLimit(nil)
+										.font(.body)
                     .foregroundStyle(.primary)
             }
             

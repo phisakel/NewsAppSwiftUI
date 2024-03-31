@@ -17,7 +17,7 @@ struct BookmarkTabView: View {
         
         ArticleListView(articles: articles)
             .overlay(overlayView(isEmpty: articles.isEmpty))
-            #if !os(tvOS)
+            #if !os(tvOS) && !os(watchOS)
             .navigationTitle("Saved Articles")
             #endif
             #if os(macOS)

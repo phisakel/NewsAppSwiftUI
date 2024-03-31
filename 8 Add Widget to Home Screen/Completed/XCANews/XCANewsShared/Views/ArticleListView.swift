@@ -66,11 +66,11 @@ struct ArticleListView: View {
                 selectedArticleURL.wrappedValue = article.articleURL
             }
         #elseif os(watchOS)
-        NavigationLink(destination: {
-            ArticleDetailView(article: article)
-        }, label: {
+       // NavigationLink(destination: {
+       //     ArticleDetailView(article: article)
+       // }, label: {
             ArticleRowView(article: article)
-        })
+       //})
         #endif
     }
         
